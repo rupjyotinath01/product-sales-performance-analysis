@@ -71,12 +71,12 @@ To support data-driven decision-making by identifying:
 The dataset consists of product-level sales transactions, including category, revenue, quantity, and order details. The data was used to perform exploratory analysis and build an interactive dashboard for business insights.
 
 ---
+## 📁 Project Structure 
 
-## 📁 Project Structure  
-├── data/ # Dataset (if included)
-├── notebook/ # Python analysis files
-├── dashboard.png # Dashboard image
-├── README.md # Project documentation
+├── data/                # Dataset (if included)  
+├── notebook/            # Python analysis files  
+├── dashboard.png        # Dashboard image  
+├── README.md            # Project documentation  
 
 
 ---
